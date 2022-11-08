@@ -1,7 +1,5 @@
 ### Hi there 👋
-<p align="center"> 
-<img src=" https://capsule-render.vercel.app/api?text=¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</p>
+
 <!--
 **NahuelRiveros7/NahuelRiveros7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center"> 
+<img src=" https://capsule-render.vercel.app/api?text=¡Hola a todos!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>
 ## Hi, I am Erica Grundy! 
 </br>
 
